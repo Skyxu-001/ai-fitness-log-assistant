@@ -63,3 +63,7 @@ UI text is in English; code comments are in Chinese.
 ## License
 
 [MIT](LICENSE)
+
+---
+
+If you find this project useful or interesting, a ⭐ helps others discover it. Thanks!

@@ -63,3 +63,7 @@ Windows PowerShell 里用 `$env:OPENAI_API_KEY = "sk-..."` 和 `$env:FITNESS_APP
 ## 许可证
 
 [MIT](LICENSE)
+
+---
+
+如果觉得这个项目有用或有意思，欢迎点个 ⭐，让更多人看到它。谢谢！
